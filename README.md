@@ -4,7 +4,7 @@
 
 ## 🌐 Covid-19 Tracker [Android App]
 
-<img align="left" alt="Coding" width="400" src="https://lh3.googleusercontent.com/-nr0yeFQIoZs/Y0_wc_IaPrI/AAAAAAAAAjU/ZODJZmmdnS4uLTQg4P81un4w1eVd9e8NQCNcBGAsYHQ/h120/covid-19%2Btracker.gif">
+<img align="center" alt="Coding" width="400" src="https://lh3.googleusercontent.com/-nr0yeFQIoZs/Y0_wc_IaPrI/AAAAAAAAAjU/ZODJZmmdnS4uLTQg4P81un4w1eVd9e8NQCNcBGAsYHQ/h120/covid-19%2Btracker.gif">
 
 # 📲 About App
 
