@@ -9,28 +9,28 @@
 
 # 📲About App
 
-* Inspiration
+* Inspiration :
 This project is inspired by the efforts of our front line workers in covid pandemic who did all than their capacity to save thousands of lives.
 
-* What it does
+* What it does :
 This project is also having an app by which local users can get the live status of the covid rate in more than 200 countries at one place. Besides these, the project also provides the necessary actions according to the situation one can face in covid pandemic.
 
-* How we built it
+* How we built it :
 We have built the websites using API, HTML5, CSS3,JavaScript and designed the app using Java.
 
-* Challenges we ran into
+* Challenges we ran into :
 As we had to provide the live updates so, we had to merge api with html , css ,JS tech with its corresponding app. This was the major challenge to us.
 
-* Accomplishments that we're proud of
+* Accomplishments that we're proud of :
 Proper working web and app are itself the accomplishment we must proud of.
 
-* What we learned
+* What we learned :
 We learned how to serve with real time application to India .
 
-* What's next for COVID-19 Tracker
+* What's next for COVID-19 Tracker :
 AI and ML , Using Current Location Tracker COVID Areas
 
-* Built With
+* Built With :
 api
 bootstrap
 css3
