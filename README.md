@@ -2,11 +2,11 @@
 ![Logo](https://www.mail-signatures.com/wp-content/uploads/2020/04/Help-fight-COVID-19-banner-4.gif)
 
 
-## 🌐Covid-19 Tracker [Android App]
+## 🌐 Covid-19 Tracker [Android App]
 
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/-nr0yeFQIoZs/Y0_wc_IaPrI/AAAAAAAAAjU/ZODJZmmdnS4uLTQg4P81un4w1eVd9e8NQCNcBGAsYHQ/h120/covid-19%2Btracker.gif">
+<img align="left" alt="Coding" width="400" src="https://lh3.googleusercontent.com/-nr0yeFQIoZs/Y0_wc_IaPrI/AAAAAAAAAjU/ZODJZmmdnS4uLTQg4P81un4w1eVd9e8NQCNcBGAsYHQ/h120/covid-19%2Btracker.gif">
 
-# 📲About App
+# 📲 About App
 
 * Inspiration :
 This project is inspired by the efforts of our front line workers in covid pandemic who did all than their capacity to save thousands of lives.
